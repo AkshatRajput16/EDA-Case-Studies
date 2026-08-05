@@ -1,15 +1,15 @@
-# Titanic Dataset
+# Titanic DATASET
 
 Exploratory Data Analysis (EDA) on the Titanic dataset using Python, Matplotlib, Numpy and Seaborn !!
 
-🛠️ Tools Used
+Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-   🔍 Key Insights
+ Key Insights
 - Female passengers had a higher survival rate.
 - First-class passengers survived more often.
 - Most passengers were between 20–40 years old.
