@@ -7,7 +7,8 @@ Tools Used :-
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
+- Seaborn(sns)
+
 
  Key Insights:-
 - Female passengers had a higher survival rate.
